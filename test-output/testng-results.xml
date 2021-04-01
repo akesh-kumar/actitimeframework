@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-01T06:19:13Z" name="Suite" finished-at="2021-04-01T06:20:15Z" duration-ms="62153">
+    <groups>
+    </groups>
+    <test started-at="2021-04-01T06:19:13Z" name="Test" finished-at="2021-04-01T06:20:15Z" duration-ms="62153">
+      <class name="org.test.Types_ofWork">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:org.test.Types_ofWork@732c2a62]" started-at="2021-04-01T06:19:45Z" name="openBrowser" finished-at="2021-04-01T06:19:55Z" duration-ms="9734" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="loginTo()[pri:0, instance:org.test.Types_ofWork@732c2a62]" started-at="2021-04-01T06:19:55Z" name="loginTo" finished-at="2021-04-01T06:19:55Z" duration-ms="575" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTo -->
+        <test-method signature="setting()[pri:0, instance:org.test.Types_ofWork@732c2a62]" started-at="2021-04-01T06:19:55Z" name="setting" finished-at="2021-04-01T06:20:12Z" duration-ms="16596" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setting -->
+        <test-method is-config="true" signature="logoutFrom()[pri:0, instance:org.test.Types_ofWork@732c2a62]" started-at="2021-04-01T06:20:12Z" name="logoutFrom" finished-at="2021-04-01T06:20:14Z" duration-ms="2514" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutFrom -->
+        <test-method is-config="true" signature="close()[pri:0, instance:org.test.Types_ofWork@732c2a62]" started-at="2021-04-01T06:20:14Z" name="close" finished-at="2021-04-01T06:20:15Z" duration-ms="761" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- org.test.Types_ofWork -->
+      <class name="org.test.ActiLogPage">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:org.test.ActiLogPage@1ba9117e]" started-at="2021-04-01T06:19:13Z" name="openBrowser" finished-at="2021-04-01T06:19:31Z" duration-ms="18436" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="loginTo()[pri:0, instance:org.test.ActiLogPage@1ba9117e]" started-at="2021-04-01T06:19:31Z" name="loginTo" finished-at="2021-04-01T06:19:33Z" duration-ms="1286" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTo -->
+        <test-method signature="setting()[pri:0, instance:org.test.ActiLogPage@1ba9117e]" started-at="2021-04-01T06:19:33Z" name="setting" finished-at="2021-04-01T06:19:40Z" duration-ms="7662" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setting -->
+        <test-method is-config="true" signature="logoutFrom()[pri:0, instance:org.test.ActiLogPage@1ba9117e]" started-at="2021-04-01T06:19:40Z" name="logoutFrom" finished-at="2021-04-01T06:19:44Z" duration-ms="3481" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutFrom -->
+        <test-method is-config="true" signature="close()[pri:0, instance:org.test.ActiLogPage@1ba9117e]" started-at="2021-04-01T06:19:44Z" name="close" finished-at="2021-04-01T06:19:45Z" duration-ms="1075" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- org.test.ActiLogPage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
